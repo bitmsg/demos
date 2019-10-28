@@ -17,3 +17,7 @@ bs58 = { version = "0.3.0", features = ["check"] }
 sha3 = "0.8.2"
 bitcoincash-addr = "0.2.0"
 bech32 = "0.7.1"
+untrusted = { version = "0.6", optional = true }
+base32 = "0.4.0"
+crc16 = "0.4.0"
+sha2 = "0.8.0"
